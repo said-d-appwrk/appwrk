@@ -1,0 +1,491 @@
+# Copyright (C) 2016 Omni Leads B.V. The Netherlands
+# This file is distributed under the same license as the WooCommerce package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Web Dokter by OmniLeads 1.0\n"
+"Report-Msgid-Bugs-To: https://www.omnileads.nl\n"
+"POT-Creation-Date: 2017-08-07 13:34+0200\n"
+"PO-Revision-Date: 2017-08-07 13:35+0200\n"
+"Last-Translator: \n"
+"Language-Team: EMAIL@ADDRESS\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../views/tabs.ctp.php:5
+msgid "Great job. Your almost done!"
+msgstr "Goed gedaan. U bent er bijna!"
+
+#: ../views/tabs.ctp.php:36
+msgid "Settings"
+msgstr "Instellingen"
+
+#: ../views/tabs.ctp.php:5
+msgid "Please add your tawk.to script to get started"
+msgstr "Voeg alstublieft uw tawk.to script toe om verder te gaan"
+
+#: ../views/tabs.ctp.php:5
+msgid "Also see our"
+msgstr "Zie ook onze"
+
+#: ../views/tabs.ctp.php:5
+msgid "for how to do this or"
+msgstr "voor uitleg hoe dit werkt of"
+
+#: ../views/tabs.ctp.php:13
+msgid "Tawk.To Chat WordPress Visibility Options"
+msgstr "TawkTo Chat Opties Zichtbaarheid"
+
+#: ../views/tabs.ctp.php:32
+msgid "WooCommerce Page Options"
+msgstr "WooCommerce Pagina Opties"
+
+#: ../views/tabs.ctp.php:42
+msgid "Help"
+msgstr "Hulp"
+
+#: ../views/tabs.ctp.php:42
+msgid ""
+"Enable the Advanced mode under the settings tab to make more options "
+"available for the visibility of the chat on all tabs. Note that disabling "
+"this option will cause the settings not show the be unset! The reason for "
+"this is to ensure predictable behaviour for the workings of this plugin"
+msgstr ""
+"Activeer de Geavanceerde modus op het Instellingen tab om op alle tabbladen "
+"meer opties voor de zichtbaarheid weer te geven. Let op! Het deactiveren van "
+"de geavanceerde modus zal de onder deze modus ingestelde opties wissen! De "
+"reden hiervoor is dat dit zorgt dat de plugin voorspelbaar en gewenst gedrag "
+"vertoond"
+
+#: ../views/tabs.ctp.php:42
+msgid ""
+"When using WooCommerce on the same WordPress installation and if it is "
+"active, then the Tawk.To Manager plugin will show extra visibility options "
+"for WooCommerce specific pages also as extra options on the frontend and "
+"backend tabs"
+msgstr ""
+"Als WooCommerce actief is op dezelfde WordPress installatie als de TawkTo "
+"Manager plug-in, dan worden er extra opties getoond voor de zichtbaarheid "
+"van de chat op WooCommerce specifieke pagina's"
+
+#: ../views/help.ctp.php:19
+msgid "tab and paste the script that you took from tawk.to"
+msgstr "tab en voeg het op tawk.to gekopieerde script toe"
+
+#: ../views/help.ctp.php:30
+msgid "What does this plugin do?"
+msgstr "Wat doet deze plug-in?"
+
+#: ../views/help.ctp.php:31
+msgid ""
+"This plugin enables you to add the script to specific WordPress pages and/or "
+"for specific user types. This plugin does not alter or augment the chat it "
+"self and the chat window itself is configured via the dashboard on tawk.to"
+msgstr ""
+"Met deze plug-in kunt u het script toevoegen aan WordPress pagina's en/of "
+"voor bepaalde gebruikersgroepen. Deze plug-in wijzigt de chat zelf niet, "
+"voegt niks extra aan de chat en voor het instellen van opties voor het "
+"venster zelf gebruikt u het dashboard op tawk.to"
+
+#: ../views/help.ctp.php:34
+msgid "Who developed this plugin?"
+msgstr "Wie heeft deze plug-in ontwikkeld?"
+
+#: ../views/help.ctp.php:35
+msgid ""
+"OmniLeads.nl is not the developer of the chat itself and has is in no way "
+"related or associated with the owners and developers of the tawk to chat"
+msgstr ""
+"OmniLeads.nl is niet de ontwikkelaar van de chat zelf en is op geen enkele "
+"manier verbonden aan de eigenaar en ontwikkelaar van de tawk.to chat"
+
+#: ../views/help.ctp.php:34
+msgid "What is the Advanced Mode on the Settings tab?"
+msgstr "Wat is de geavanceerde modus op het Instellingen tabblad?"
+
+#: ../views/help.ctp.php:39
+msgid "Does this plugin work with WooCommerce?"
+msgstr "Werkt deze plug-in met WooCommerce?"
+
+#: ../views/help.ctp.php:34
+msgid ""
+"The advanced mode shows more options for the visibility for the chat and on "
+"all tabs. Note that disabling this option will cause the settings not show "
+"the be unset! The reason for this is to ensure predictable behaviour for the "
+"workings of this plugin"
+msgstr ""
+"Activeer de Geavanceerde modus op het Instellingen tab om op alle tabbladen "
+"meer opties voor de zichtbaarheid weer te geven. Let op! Het deactiveren van "
+"de geavanceerde modus zal de onder deze modus ingestelde opties wissen! De "
+"reden hiervoor is dat dit er voor zorgt dat de plugin voorspelbaar en "
+"gewenst gedrag vertoond. "
+
+#: ../views/help.ctp.php:34
+msgid ""
+"Enabling the Advanced mode under the settings tab will make more options "
+"available for the visibility of the chat on all tabs. Note that disabling "
+"this option will cause the settings not show the be unset! The reason for "
+"this is to ensure predictable behaviour for the workings of this plugin"
+msgstr ""
+"Activeer de Geavanceerde modus op het Instellingen tab om op alle tabbladen "
+"meer opties voor de zichtbaarheid weer te geven. Let op! Het deactiveren van "
+"de geavanceerde modus zal de onder deze modus ingestelde opties wissen! De "
+"reden hiervoor is dat dit zorgt dat de plugin voorspelbaar en gewenst gedrag "
+"vertoond. "
+
+#: ../views/settings.ctp.php:9
+msgid "Plugin Options and Settings"
+msgstr "Plug-in Opties en Instellingen"
+
+#: ../views/settings.ctp.php:13
+msgid "Advanced Mode"
+msgstr "Geavanceerde Modus"
+
+#: ../views/help.ctp.php:40
+msgid "Plugin documentation on OmniLeads.NL"
+msgstr "Plug-in documentatie op OmniLeads.NL"
+
+#: ../views/tabs.ctp.php:5
+msgid "here"
+msgstr "hier"
+
+#: ../views/tabs.ctp.php:5
+msgid "add your script"
+msgstr "voeg uw script toe"
+
+#: ../views/tabs.ctp.php:5
+msgid "Hide For Administrators"
+msgstr "Verberg voor Beheerders"
+
+#: ../views/tabs.ctp.php:5
+msgid "Hide Logged In Subscribers"
+msgstr "Verberg voor ingelogde Abonnees"
+
+#: ../settings.ctp.php:3
+msgid "Tawk.To Manager Options and Settings"
+msgstr "Tawk.To Manager opties en instellingen"
+
+#: ../settings.ctp.php:14
+msgid "Visibility options"
+msgstr "Instellingen zichtbaarheid "
+
+#: ../settings.ctp.php:14
+msgid "Visibility Options / Tawk.To Script"
+msgstr "Zichtbaarheid / Script"
+
+#: ../settings.ctp.php:14
+msgid "Visibility Options / Script"
+msgstr "Zichtbaarheid opties / Script"
+
+#: ../settings.ctp.php:16
+msgid "Always Show Tawk.To Chat"
+msgstr "Tawk.To Chat Altijd Tonen"
+
+#: ../settings.ctp.php:16
+msgid "Always Show Chat"
+msgstr "Vertoon chat altijd"
+
+#: ../settings.ctp.php:26
+msgid "Show On Front Page"
+msgstr "Vertoon op Voorpagina "
+
+#: ../settings.ctp.php:26
+msgid "Show on Front Page"
+msgstr "Toon op Voorpagina"
+
+#: ../settings.ctp.php:36
+msgid "Show On Category Pages"
+msgstr "Vertoon op Categorie pagina's"
+
+#: ../settings.ctp.php:36
+msgid "Show on Category Pages"
+msgstr "Toon op Categorie Pagina's"
+
+#: ../settings.ctp.php:46
+msgid "Show On Tag Pages"
+msgstr "Vertoon op Tag pagina's"
+
+#: ../settings.ctp.php:46
+msgid "Show on Tag Pages"
+msgstr "Toon op Tag Pagina's"
+
+#: ../settings.ctp.php:56
+msgid "Hide For Administrator"
+msgstr "Verberg voor Administrator"
+
+#: ../settings.ctp.php:66
+msgid "Hide For Subscribers"
+msgstr "Verberg voor abonnees"
+
+#: ../settings.ctp.php:76
+msgid "Hide If Not Logged In"
+msgstr "Verberg als niet ingelogd "
+
+#: ../settings.ctp.php:83
+msgid "point at me for info"
+msgstr "wijs mij aan voor info"
+
+#: ../settings.ctp.php:83
+msgid ""
+"Enable to hide chat for all users not logged in and show only to logged in "
+"users having role subscriber"
+msgstr ""
+"Activeer deze optie om de chat te verbergen voor alle niet ingelogde "
+"gebruikers en wel te tonen aan ingelogde gebruikers met de rol abonnee."
+
+#: ../settings.ctp.php:88
+msgid "Your Tawk.To Script"
+msgstr "Uw Tawk.To Script"
+
+#: ../settings.ctp.php:141
+msgid "Copy and paste the whole script from tawk.to"
+msgstr "Kopieer en plak het gehele script van tawk.to"
+
+#: ../settings.ctp.php:141
+msgid "or read"
+msgstr "zie ook"
+
+#: ../settings.ctp.php:143
+msgid "Adding a widget to your website on"
+msgstr "Om uw widget toe te voegen aan uw website gaat u naar"
+
+#: ../settings.ctp.php:145
+msgid "Plugin documentation"
+msgstr "Plug-in documentatie"
+
+#: ../views/tabs.ctp.php:5
+msgid ""
+"Congratulations on choosing for Tawk.To live chat and the TawkTo Manager "
+"plugin for WordPress developed by OmniLeads!"
+msgstr ""
+"Gefeliciteerd met uw keuze voor Tawk.To live chat en de TawkTo Manager "
+"WordPress plug-in die is ontwikkeld door OmniLeads!"
+
+#: ../views/tabs.ctp.php:6
+msgid ""
+"TawkTo is the best web based live chat system in the world and even better, "
+"it is totally free. To use it you first need to sign up at tawk.to and add "
+"the TawkTo script provided for your account."
+msgstr ""
+"TawkTo is het beste live chat systeem voor websites ter wereld en nog beter, "
+"het is gratis. Om het te gebruiken moet u zich eerst aanmelden op tawk.to en "
+"het TawkTo script toevoegen dat u kunt vinden in het dashboard van uw nieuwe "
+"account. "
+
+#: ../views/tabs.ctp.php:7
+msgid ""
+"Then you can use this plugin to add the script provided by tawk.to to your "
+"WordPress website."
+msgstr ""
+"Vervolgens kunt u deze plug-in gebruiken om het  TawkTo script toe te voegen "
+"aan uw WordPress website."
+
+#: ../views/tabs.ctp.php:10
+msgid ""
+"Go to tawk.to and create a new and free account if you don not have one or "
+"read this"
+msgstr ""
+"Ga naar tawk.to en maak een nieuw gratis account aan als u die nog niet heeft"
+
+#: ../views/tabs.ctp.php:10
+msgid "help article"
+msgstr "help artikel"
+
+#: ../views/tabs.ctp.php:10
+msgid ""
+"Copy and paste the whole script from tawk.to or read adding a widget to your "
+"website on tawk.to"
+msgstr ""
+"Kopieer en plak het gehele script van tawk.to of lees adding a widget to "
+"your website op tawk.to"
+
+#: ../views/tabs.ctp.php:10
+msgid "read adding a widget to your website on tawk.to"
+msgstr "lees adding a widget to your website op tawk.to"
+
+#: ../views/tabs.ctp.php:10
+msgid "paste the script that you took following the below insturctions"
+msgstr "plak het gekopieerde script volgens de onderstaande instructies"
+
+#: ../views/tabs.ctp.php:10
+msgid "Go to the"
+msgstr "Ga naar de"
+
+#: ../views/tabs.ctp.php:10
+msgid "Go to"
+msgstr "Ga naar"
+
+#: ../views/tabs.ctp.php:10
+msgid "Options"
+msgstr "Opties"
+
+#: ../views/tabs.ctp.php:22
+msgid "options"
+msgstr "Opties"
+
+#: ../views/tabs.ctp.php:19
+msgid ""
+"tab (second from the left) and paste the script that you took following the "
+"below insturctions"
+msgstr ""
+"tab (tweede van links) en plak het gekopieerde script volgens de "
+"onderstaande instructies"
+
+#: ../views/tabs.ctp.php:22
+msgid "tab to set all frontend visibility options"
+msgstr "tab voor het instellen van alle opties voor zichtbaarheid"
+
+#: ../views/tabs.ctp.php:26
+msgid ""
+"to set all WordPress backend aka dashboard aka admin section visibility "
+"options"
+msgstr ""
+"om alle WordPress back-end c.q. dashoard aka admin zichtbaarheidsopties"
+
+#: ../views/frontend.ctp.php:13
+msgid "Chat Visibility Options Website / Blog"
+msgstr "Opties Chat Zichtbaarheid Website / Blog"
+
+#: ../views/backend.ctp.php:13
+msgid "Chat Visibility Options WordPress Dashboard"
+msgstr "Opties Chat Zichtbaarheid WordPress Dashboard"
+
+#: ../views/backend.ctp.php:13
+msgid "Show For Editors"
+msgstr "Vertoon voor Redacteuren"
+
+#: ../views/backend.ctp.php:13
+msgid "Show For Authors"
+msgstr "Vertoon voor Auteurs"
+
+#: ../views/backend.ctp.php:13
+msgid "Show For Subscribers"
+msgstr "Vertoon voor Abonnees"
+
+#: ../views/woocommerce.ctp.php:13
+msgid "Chat Visibility Options WooCommerce Pages"
+msgstr "Chat Zichtbaarheid Opties WooCommerce Pagina's"
+
+#: ../views/woocommerce.ctp.php:19
+msgid "Show On Shop Page"
+msgstr "Vertoon op Shop pagina"
+
+#: ../views/woocommerce.ctp.php:31
+msgid "Show On Cart Page"
+msgstr "Vertoon op Cart pagina"
+
+#: ../views/woocommerce.ctp.php:42
+msgid "Show On Checkout Page"
+msgstr "Vertoon op Checkout pagina"
+
+#: ../views/woocommerce.ctp.php:53
+msgid "Show On Single Product Pages"
+msgstr "Vertoon op individuele Product pagina's"
+
+#: ../views/woocommerce.ctp.php:64
+msgid "Show For Customers On My Account Page"
+msgstr "Vertoon voor Klanten op My Account pagina"
+
+#: ../views/woocommerce.ctp.php:79
+msgid "WooCommerce Back-end"
+msgstr "WooCommerce Backend"
+
+#: ../views/woocommerce.ctp.php:79
+msgid "Hide For WooCommerce Shop Manager"
+msgstr "Verberg voor Shop Manager"
+
+#: ../views/help.ctp.php:38
+msgid ""
+"Omni Leads B.V. is the developer of this WordPress plugin but not the "
+"developer of the chat itself and has is in no way related or associated with "
+"the owners and developers of the tawk to chat"
+msgstr ""
+"OmniLeads.nl is de ontwikkelaar van deze plug-in maar niet de ontwikkelaar "
+"van de chat zelf en is op geen enkele manier verbonden aan de eigenaar en "
+"ontwikkelaar van de tawk.to chat"
+
+#: ../controllers/ttmbackend.ctrl.php:142
+msgid "TawkTo settings"
+msgstr "TawkTo instellingen"
+
+#: ../controllers/ttmfrontend.ctrl.php:37
+msgid "Show on All Single Posts"
+msgstr "Toon op Alle Posts"
+
+#: ../controllers/ttmfrontend.ctrl.php:37
+msgid "Show on All Single Pages"
+msgstr "Toon op Alle Pagina's"
+
+#: ../controllers/ttmfrontend.ctrl.php:84
+msgid "User Roles"
+msgstr "Gebruikersrollen"
+
+#: ../controllers/ttmfrontend.ctrl.php:84
+msgid "Visibility Category and Tag pages"
+msgstr "Zichtbaarheid op Categorie en Tag Pagina's"
+
+#: ../controllers/ttmfrontend.ctrl.php:84
+msgid "Visibility on website / blog"
+msgstr "Zichtbaarheid op Voorpagina / blog"
+
+#: ../controllers/ttmfrontend.ctrl.php:84
+msgid "Visibility Page and Post types"
+msgstr "Zichtbaarheid op Pagina's en Posts"
+
+#: ../controllers/ttmbackend.ctrl.php:40
+msgid "Hide for Administrators"
+msgstr "Verberg voor Beheerders"
+
+#: ../controllers/ttmbackend.ctrl.php:33
+msgid "Show for Editors"
+msgstr "Verberg voor Redacteuren"
+
+#: ../controllers/ttmbackend.ctrl.php:42
+msgid "Show for Authors"
+msgstr "Verberg voor Auteurs"
+
+#: ../controllers/ttmbackend.ctrl.php:48
+msgid "Show for Subscribers"
+msgstr "Verberg voor abonnees"
+
+#: ../controllers/woocommerce.ctp.php:48
+msgid "Show on Shop Page"
+msgstr "Toon op Winkel Pagina"
+
+#: ../controllers/woocommerce.ctp.php:48
+msgid "Show on Cart Page"
+msgstr "Toon op Cart Pagina"
+
+#: ../controllers/ttmbackend.ctp.php:48
+msgid "Show on Checkout Page"
+msgstr "Toon op Checkout Pagina"
+
+#: ../controllers/ttmbackend.ctp.php:48
+msgid "Show on Single Product Pages"
+msgstr "Toon op Product Pagina's"
+
+#: ../controllers/ttmbackend.ctp.php:48
+msgid "Hide for WooCommerce Shop Manager"
+msgstr "Verberg voor Shop Manager"
+
+#: ../controllers/ttmbackend.ctp.php:48
+msgid "Visibility WooCommerce Pages"
+msgstr "Zichtbaarheid WooCommerce Pagina's"
+
+#~ msgid ""
+#~ "When using WooCommerce on the same WordPress installation and if it's "
+#~ "active, then the Tawk.To Manager plugin will show extra visibility "
+#~ "options for WooCommerce specific pages also as extra options on the "
+#~ "frontend and backend tabs"
+#~ msgstr ""
+#~ "Als WooCommerce actief is op dezelfde WordPress installatie als de TawkTo "
+#~ "Manager plug-in, dan worden er extra opties getoond voor de zichtbaarheid "
+#~ "van de chat op WooCommerce specifieke pagina's"
+
+#~ msgid ""
+#~ "tab and paste the script that you took following the below insturctions"
+#~ msgstr ""
+#~ "tab en plak het gekopieerde script volgens de onderstaande instructies"

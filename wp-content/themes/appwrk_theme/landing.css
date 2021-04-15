@@ -1,0 +1,24 @@
+.landing.page-footer {
+    padding: 2rem 0;
+    background: #263145;
+}
+.landing.page-footer hr {
+margin: 1.5rem 0;
+background: #fff;
+}
+.landing.page-footer ul.footer-info {
+padding-left:2rem; 
+}
+
+.landing.page-footer ul.footer-info li{
+font-size:1rem;
+color:#fff;
+}
+.landing.page-footer h4, .landing.page-footer h6, .landing.page-footer a  {
+    color: #eb5526!important;
+}
+
+.landing.page-footer p, .landing.page-footer .phone-number h2 {
+    color: #ffff;
+}
+

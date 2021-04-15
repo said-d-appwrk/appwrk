@@ -1,0 +1,967 @@
+/* Quality policy starts*/
+.qulality-box:hover .elementor-image-box-title{
+	/* color:white !important; */
+}
+/* Testimonials Start */
+.review-bar:hover h3{
+    /* color:white !important; */    
+}
+.review-bar :hover p{
+    /* color:white !important; */    
+}
+/* Testimonials Ends */
+.navbar-main {
+    /* padding:0px; */
+}
+.services-sec  img {
+    /* max-width: 60px !important;
+    margin: 10px; */
+}
+/* PHP development starts here */
+.service-area1 ul {
+    /* border-top: 1px solid #ebebeb; */
+}
+.service-area1 li {
+    /* width: -webkit-calc(100%/3);
+    border-right: 1px solid #ebebeb;
+    border-bottom: 1px solid #ebebeb;
+    display: flex;
+    transition: all 0.3s ease; */
+}
+.service-area1 li .description1 {
+    /* padding: 40px 37px 46px;
+    position: relative; */
+}
+.description1 {
+	/* text-align: center ; */
+}
+.service-area1 li:hover span, .service-area1 li:hover strong, .service-area1 li:hover p {
+    /* color: #fff; */
+}
+.service-area1 strong {
+    /* font-family: poppins;
+    color: #EC5B2E;
+    font-size: 20px; */
+}
+.service-area1 p {
+    /* font-family: lato;
+    color: #758495;
+    font-size: 17px; */
+}
+.service-area1 li figure {
+    /* text-align: center;
+    margin: 0 auto 37px !important;
+    width: 192px;
+    height: 194px;
+    border-radius: 50%;
+    overflow: hidden;
+    background-color: #0F58A5;
+    position: relative; */
+}
+.service-area1 li figure svg {
+    /* position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 90px; */
+}
+.service-area1 li figure:after {
+    /* position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    background-color: transparent;
+    border: 4px solid #EC5B2E;
+    content: '';
+    border-top: 4px solid transparent;
+    border-right: 4px solid transparent;
+    transform: rotate(45deg);
+    transition: all 0.4s cubic-bezier(0.420, 0.000, 0.580, 1.000); */
+}
+.service-area1 li:hover .description1 {
+    /* background-color: #0F58A5;
+	transition: all 0.4s ease; */
+}
+.service-area1 li:hover figure:after {
+    /* transform: rotate(180deg);
+    content:''; */}
+.service-area li:nth-child(1) figure:after {
+    /* transform: rotate(-65deg) !important; */
+}
+.service-area li:nth-child(2) figure:after {
+    /* transform: rotate(-45deg); */
+}
+.service-area li:nth-child(3) figure:after {
+    /* transform: rotate(-25deg); */
+}
+.service-area li:nth-child(4) figure:after {
+    /* transform: rotate(-5deg); */
+}
+.service-area li:nth-child(5) figure:after {
+    /* transform: rotate(15deg); */
+}
+.service-area li:nth-child(6) figure:after {
+    /* transform: rotate(35deg); */
+}
+.service-area li:nth-child(7) figure:after {
+    /* transform: rotate(55deg); */
+}
+.service-area li:nth-child(8) figure:after {
+    /* transform: rotate(75deg); */
+}
+.service-area li:nth-child(9) figure:after {
+    /* transform: rotate(95deg); */
+}
+/* Blog starts */
+.blogtext {
+	/* background: #fdfdfd; 
+	padding: 2rem 2rem; 
+	border: 1px solid #e5e5e5; */}
+.blogtext h2{
+    /* color:#0F58A5; 
+    	font-size:20px; */}
+.blogtext p{
+	    /* margin-bottom:1rem; */}
+ .read-more-link i{
+	/* font-size:2rem; */
+ }
+.post-articles:hover .read-more-link i {}
+
+/* Blog ends */
+.price-div{
+	/* padding: 10px 10px;
+    border-left: 3px solid transparent; */
+}
+.price-div:hover{
+    /* background: #f7f7f7;
+    border-left: 3px solid #0f58a5; */
+}
+.price-div  div{
+    /* width:100%; */
+}
+.price-div p{
+	/* display: flex;
+    justify-content: space-between;
+    font-size: 10pt;
+    color: #0f58a5;
+    font-family: 'Hind', sans-serif;
+    align-items: center;
+    margin-bottom: 0px; */
+}
+.price-div p small{
+	/* color: #f28e6f;
+    float: right;
+    display: block;
+    font-size: 90%; */
+}
+.price-table-grid .elementor-row{
+	    /* flex-wrap: wrap; */
+}
+.price-table-grid-col{
+	    /* width: 25% !important; */
+}
+@media only screen and (min-width: 1367px) {
+	.baner_img{
+		/* width:70%!important; */
+	}
+}
+.laravel_points {
+	/* margin:3%;	
+	box-shadow: 0px 15px 32px 5px rgba(0,0,0,0.05);
+    border-radius: 50px; */
+}
+.aspnet_points {
+    /* margin: 1%;
+    box-shadow: 0px 15px 32px 5px rgba(0,0,0,0.05);
+    border-radius: 10px;
+    background-color: white; */
+}
+.why_asp{
+	/* margin:1%;	
+	box-shadow: 0px 15px 32px 5px rgba(0,0,0,0.05);
+	 transition: all 0.3s ease-in-out; */
+	}
+.why_asp:hover{
+	/* box-shadow: 0px 15px 32px 5px rgba(0,0,0,0.05);
+	transition: all 0.3s ease-in-out;
+	background-color:white; */
+	}
+.retail_svg_item {
+    /* transition: all 0.3s ease-in-out;
+	background-color:white; */
+}
+.retail_svg_item:hover {
+	/* box-shadow: 0px 15px 32px 5px rgba(0,0,0,0.05);
+	transition: all 0.3s ease-in-out;
+	background-color:white; */
+}
+.retail_height{
+	/* min-height: 55px!important; */
+}
+/*  fotter css  */
+/* heding style */
+.appc_heading {
+	/* color: #0f58a5;
+    font-size: 38px;
+    font-weight: 800;
+    text-transform: uppercase;
+    line-height: 1.05;
+	letter-spacing: 0!important;
+    word-spacing: 2px;
+    font-family: 'Poppins', sans-serif; */
+}
+/* Blog-item
+recent_title
+recent-img */
+  /* badge-section  css */
+.content-testi-row {
+    /* margin: auto!important; */
+}
+/* our team page slider */
+.heding-box{
+    /* display: flex;
+    align-content: center;
+    flex-direction: column;
+    justify-content: center;
+    height: 280px; */
+}
+.heding-box h4 {
+    /* color: #eb5526;
+    font-weight: 700; */
+}
+.heding-box p {
+    /* color: #ffffff; */
+}
+
+.heding-box img {
+    /* width: 50px;
+    margin:0 auto;
+    animation: mymove infinite;
+    animation-duration: 2s; */
+}
+/* @keyframes mymove {
+0% {transform: translateX(0px);}
+
+50% {transform: translateX(20px);}
+
+
+100% {transform: translateX(0px);}
+} */
+/* new css */
+/* our team page slider  end*/
+.navbar-nav .nav-item button {
+    padding: 6px 15px !important; display: flex; flex-wrap: wrap; justify-content: center; align-items: center; color: #FFf !important; background: #eb5527; border: 1px solid #FFF; border-radius: 5px;
+}
+.navbar-nav .nav-item button.focus, 
+.navbar-nav .nav-item button:focus{box-shadow: none;}
+.navbar-nav .nav-item button:hover{color: #fff;}
+.rc-anchor-normal .rc-anchor-pt {left: 15px;}
+/*schedule model on hire react js page css*/
+/* 
+#meetingModal {position: fixed;top: 50%; left: 50%; z-index: 1050; width: 100%; outline: 0; transform: translate(-50%, -50%); height: auto; }
+#meetingModal .modal-dialog {width: 100%;max-width: 1000px; }
+#meetingModal .modal-dialog .modal-content{border: 2px solid #0f58a5;border-radius: 5px;width: 100%;}
+ #meetingModal .modal-dialog .modal-content .modal-body{padding:0;width: 100%;}
+ #meetingModal .modal-dialog .modal-content .close {position: absolute;right: -5px;top: -5px; background: #ec5b2e; opacity: inherit; border-radius: 50%; width: 25px; height: 25px; display: flex; flex-wrap: wrap; justify-content: center; color: #fff; z-index: 5;  font-size: 20px; padding: 0 0 0 0;}
+ #meetingModal .modal-dialog .modal-content .modal-body .animateform-outer.main {width: 100%;display: flex; flex-wrap: wrap; justify-content: center; max-width: 100%;}
+#meetingModal .modal-dialog .modal-content .modal-body .animateform-outer.main .animate-left
+, #meetingModal .modal-dialog .modal-content .modal-body .animateform-outer.main .animate-right{width: 50%;padding: .875rem; display: flex; flex-direction: column; justify-content: center; position: relative;}
+ #meetingModal .modal-dialog .modal-content .modal-body .animateform-outer.main .animate-right #wpcal_user_app{width: 100%;max-width: 100%;}
+
+#meetingModal .modal-dialog .modal-content .modal-body .animateform-outer.main .animate-right #wpcal_user_app #wpcal-widget .widget-main.state-select-date {
+    padding: 0;margin: 0;width: 100%;max-width: 100%;}
+#wpcal-widget .widget-main .event-date-col {width: 100% !important; max-width: 100%;}
+ #meetingModal .modal-dialog .modal-content .modal-body .animateform-outer.main .animate-right #wpcal_user_app #wpcal-widget .widget-main.state-select-date .event-preset-cont {
+    display: none;}
+#wpcal-widget .widget-main.state-form, #wpcal-widget .widget-main.state-select-date {padding: 0;margin: 0;}
+#wpcal-widget .widget-main {box-shadow: none !important;width: 100% !important;max-width: 100%;}
+#wpcal-widget .widget-main.state-select-date .onboard-select-date{display: none;}
+#wpcal-widget .widget-main.state-select-time {margin: 0;}
+#wpcal-widget .widget-main.state-select-time {width: auto; max-width: 480px;}
+#wpcal-widget .widget-main.state-select-time .event-preset {display: none;}
+.widget-main.state-form.cf {width: auto;max-width: 350px;}
+.widget-main.state-form.cf .event-preset {display: none;}
+#wpcal-widget .widget-main.state-form .event-form { width: 100% !important;}
+#wpcal-widget .form .form-row {margin: 0 0 0px 0 !important ;}
+#wpcal-widget .form .form-row button, #wpcal_user_app .form .form-row button {margin-top: 15px;}
+#wpcal-widget .widget-main .event-time-col ul.time-slot-selector li.confirmation button{padding: 5px 7px 5px 7px !important;}
+#free-trial .wpcf7-mail-sent-ok {margin: 0 auto 15px; color: #398f14; border: none;padding: 0; }
+#meetingModal .modal-dialog .modal-content .close:focus {outline: none;}
+
+.timezone-text{
+    font-size: 14px!important;}
+*/
+.nav-item.hire-item:after {
+    /* display: none; */
+}
+/*--16-dec css--*/
+/*-----------------*/
+/*---Blog category filter css--*/
+
+
+.resp-vdeo-frame-wrap{
+    /* position: relative;
+    overflow: hidden;
+    padding-top: 56.25%; */
+}
+
+.resp-vdeo-frame-wrap iframe{
+    /* position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0; */
+}
+
+
+@media only screen and (max-width: 575px) {
+
+.consultation-form .modal-dialog .modal-content p {
+    /* font-size: 15px;
+    margin-bottom: 15px; */
+}
+.consultation-form .modal-dialog .modal-content h1 {
+    /* font-size: 1.5rem; */
+}
+.consultation-form .modal-dialog .modal-content .apply-now-form-body form .consult-wrap .main-wrap {
+    /* padding: 15px 15px;margin: 0px 0; */
+}
+.consultation-form .modal-dialog .modal-content .apply-now-form-body form .submit-wrap {
+    /* padding: 0 15px; */
+}
+
+}
+
+
+
+@media only screen and (min-width:1200px) {
+    .elementor-section.elementor-section-height-full {
+    /* height: 100vh; */
+}
+}
+
+
+@media only screen and (min-width:992px) and (max-width:1199px) {
+    .services-list .elementor-icon-list-item {width: 100% !important;}
+    /*#meetingModal .modal-dialog {max-width: 800px;}*/
+}
+
+
+@media only screen and (min-width:768px) and (max-width:991px) {
+    .services-list .elementor-icon-list-item {width: 100% !important;}
+     /*#meetingModal .modal-dialog {max-width: 700px;}*/
+}
+
+@media only screen and (max-width:767px) { 
+  /*#meetingModal .modal-dialog .modal-content .modal-body .animateform-outer.main .animate-left,  #meetingModal .modal-dialog .modal-content .modal-body .animateform-outer.main .animate-right {
+    width: 100%;}
+ #meetingModal .modal-dialog {width: 100%;max-width: 300px; height: 400px; margin-left: auto; margin-right: auto; }*/
+}
+
+/* @media only screen and (max-width:1199px){
+   .elementor-section.elementor-section-height-full {height: auto !important;}
+   .why-inner-wrap .default-btn {
+    padding: 10px 15px !important;}
+
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* hire react js dev page css */
+
+
+/* hire header css */
+
+/* .wpcf7-submit.ads-btn {
+    height: 50px;
+    border-radius: 0;
+    border: 0;
+    max-width: 200px;
+    margin: auto;
+    background: #eb5526;
+    font-size: 1.2rem;
+    color: #fff;
+} */
+/*div#wpcal_user_app .ribbon-mask, div#wpcal_user_app>div span+div {
+    display: none;
+}*/
+    /* .sub-head-outsourc {
+        font-weight: 400;
+        color: #263145;
+        font-size: 1.1rem;
+    } */
+    /* .sourc-content {
+        font-size: 1rem;
+        color: #263145;
+    } */
+    /* .adds-nav .list-item {justify-content: flex-end;}
+    .adds-nav {
+    background-color: white!important;
+    color:white;
+    box-shadow: 0 0 60px 0 rgba(0,0,0,.07)!important;
+    padding: 0!important;}
+    .adds-nav  .navbar-toggler{
+    border: none;
+    outline: none;
+    padding-right: 30px;
+    } */
+
+    /* .adds-nav .nav-item::before{
+    display: none;
+    } */
+    /* .adds-nav .menu-item .nav-item{margin-left: 16px;}
+    .adds-nav .menu-item .nav-item .nav-link {color: #263145!important;border-bottom:1px solid transparent;font-family: "Montserrat", sans-serif;font-size: 16px;font-weight: 600!important;}
+    .adds-nav .menu-item .nav-item .nav-link:hover {
+    color: #eb5526!important;
+    } */
+    /* .adds-nav .navbar-toggler-icon{
+    border-bottom: 1px solid #000;}
+    .adds-nav .navbar-toggler-icon::after , .navbar-toggler-icon::before {
+    background-color: #000!important;
+    } */
+
+
+/* hire header css end here */
+
+
+/* hire footer css */
+
+
+
+
+
+
+
+
+/* meeting form css */
+/*
+.pop-btn-outer {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.pop-btn {
+    background: #eb5526;
+    padding: .6rem 2rem;
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: #fff;
+}
+
+
+
+.animate-right .event-preset img{
+    display: none!important;
+}
+.animate-right .event-preset .inviter-name  {
+    display: none!important;
+}
+    .animate-right input {
+        margin-bottom: 1rem;
+        height: 35px;
+        padding: 5px;
+        width: 100%;
+        border: 0;
+        border-bottom: 1px solid;
+    }
+    .animate-right {
+        background: #fff;
+    }
+    .animate-right h3, .animate-right p {
+        color:#0f58a5;
+    }
+    .animate-right .container {
+        max-width: 100%;
+    }
+    .Schedule-time {
+        height: 50px!important;
+        margin: 0;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        font-weight: 400;
+        color: #fff;
+        font-size: 1rem;
+        background: #eb5526;
+        border: 0;
+        border-bottom: 0!important;
+    }
+    .animate-left h3, .animate-left p {
+        color: #fff;
+        margin-bottom: 1rem;
+    }
+    .animate-right span.ajax-loader {
+        display: none!important;
+    }
+    .animate-left p, .animate-right p {
+        font-size: 1rem;
+        text-align:center;
+        width: 100%;
+    }
+    .animateform-outer {
+    background: #0f58a5;
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 5px;
+    bottom: 0;
+    left: 5rem;
+    max-width: 650px;
+    transition: .8s ease all;
+    border: none !important;
+    bottom: -45vw;
+}
+.animateform-outer.main {
+    bottom: 0;
+}
+    .animateform-outer > div {
+        width: 50%;
+        padding: .875rem;
+        min-height: 378px;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    
+    .animateform-outer h3 {
+        text-align: center;
+        display: block;
+        width: 100%;
+        font-size: 1.4rem;
+    }
+    .animate-left ul {
+        display: flex;
+        flex-wrap: wrap;
+        list-style: none;
+        align-items: center;
+        justify-content: center;
+    }
+    .animate-right p {
+    margin-bottom: .4rem;
+}
+    
+    .animate-left ul li {
+        width: 28%;
+    display: flex;
+    margin: 1%;
+    }
+    span.close {
+    position: absolute;
+    right: -10px;
+    top: -10px;
+    background: #eb5526;
+    opacity: 1!important;
+    cursor: pointer;
+    color: #fff!important;
+    text-shadow: none;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    font-size: 1rem;
+    font-family: inherit;
+}
+    .animate-left ul li img {
+        width: 60px;
+        height: 60px;
+        object-fit: cover;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        max-width: initial;
+    }
+    @media(max-width:767px){
+        .animateform-outer > div {
+    width: 100%;
+}
+.animate-right p {
+    display: none;
+}
+	
+.animate-right p.timezone-text{
+    display: block;
+}
+.animate-left {
+    padding-bottom: 0!important;
+}
+.animateform-outer {
+    flex-direction: column-reverse;
+    left: 10px;
+    right: 10px;
+    bottom: -100vh;
+}
+.animate-left ul {
+    margin-bottom: 0;
+}
+.animate-left p, .animate-right p {
+    font-size: .875rem;
+}
+.animate-left h3, .animate-left p, .animate-right input {
+    margin-bottom: .6rem;
+}
+.animateform-outer h3 {
+    font-size: 1.2rem;
+}
+.Schedule-time {
+    max-width: 60%;
+    height: 40px!important;
+    margin: 0 auto;
+}
+.animate-left ul li {
+    justify-content: center;
+}
+    }
+
+
+    .meeting-form {
+        width: 100%;
+        margin: auto;
+    }
+
+    */
+
+
+    /*------exit-intent css-----*/
+    .exit-intent-popup .exit-form a {
+        /* display: flex;
+        float: none;
+        flex-wrap: wrap;
+        justify-content: center;
+        font-family: "Lato", sans-serif;
+        font-weight: 400;
+        letter-spacing: 2px;
+        opacity: 1;
+        text-shadow: none;
+        color: #0f58a5 !important;
+        font-size: 18px;
+        line-height: unset;
+        cursor: pointer; */
+    }
+    .exit-intent-popup .exit-form a:hover{
+        /* color: #EC5B2E !important; */
+    }
+
+    .exit-intent-popup {
+        /* position: fixed;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        z-index: 99999999999;
+        background: rgba(33, 33, 33, 0.8);
+      transform: translateY(60%) scale(0); */
+    }
+   
+    .exit-intent-popup.visible {
+        /* transform: translateY(0) scale(1); */
+    }
+   .newsletter {
+       /* position: absolute;
+       top: 50%;
+       left: 50%;
+       transform: translate(-50%, -50%);
+       z-index: 999999;
+       border-radius: 5px; */
+   }
+   
+   .exit-intent-popup .newsletter .exit-form {
+       /* background-color: #ffffff;
+       font-family: "Lato", sans-serif;
+       font-weight: 400;
+       padding: 15px 0;
+       max-width: 680px;
+       width: 100%; */
+   }
+   .exit-intent-popup .newsletter .exit-form h1{
+       /* color: #ec5b2e;
+       text-align: center;
+       border: none;
+       margin: 0;
+       font-size: 2rem;
+       padding: 0 15px;        */
+   }
+       .exit-intent-popup .newsletter .exit-form p {
+       /* text-align: center;
+       padding: 0 15px;
+       margin-bottom: 0; */
+   }
+   .exit-intent-popup .newsletter .exit-form .apply-now-form-body {
+       /* padding: 0; */
+   }
+   .exit-intent-popup .newsletter .exit-form .apply-now-form-body form .wpcf7-form-control {
+       /* width: 100%;
+       padding: 10px;
+       margin: 10px 0 !important;
+       box-shadow: none;
+       border: none;
+       margin-top: 1.5rem;
+       color: #0f58a5;
+       border-radius: 5px; */
+   }
+   .exit-intent-popup .newsletter .exit-form .apply-now-form-body form .wpcf7-form-control:focus {
+       /* outline: none; */
+   }
+   .exit-intent-popup .newsletter .exit-form .apply-now-form-body form textarea{
+       /* overflow: auto;
+       resize: none;
+       height: 100px;        */
+   }
+   .exit-intent-popup .newsletter .exit-form .main-wrap {
+       /* background: #0f58a5;
+       padding: 30px 30px;
+       margin: 15px 0; */
+   }
+   .exit-intent-popup .newsletter .exit-form  .main-wrap p {
+       /* color: #ffffff; */
+   }
+   .exit-intent-popup .newsletter .exit-form .submit-wrap {
+       /* padding: 0 30px;
+       margin: 15px 0;
+       display: flex;
+       flex-wrap: wrap;
+       justify-content: center;
+       margin-bottom: 0; */
+   }
+   .exit-intent-popup .newsletter .exit-form .submit-wrap .default-btn-next {
+       /* color: #fff !important;
+       font-family: "Lato", sans-serif;
+       font-weight: 400;
+       letter-spacing: 2px; */
+   }
+   .exit-intent-popup .newsletter .exit-form .apply-now-form-body a {
+       /* display: flex;
+       flex-wrap: wrap;
+       justify-content: center; */
+   }
+   .exit-intent-popup .newsletter .exit-form .wpcf7-mail-sent-ok {
+       /* color: #398f14;
+       margin: 0;
+       padding: 0;
+       border: none;
+       text-align: center; */
+   }
+   .exit-intent-popup .newsletter .exit-form .wpcf7-validation-errors, .wpcf7-acceptance-missing {
+       /* padding: 0 !important;
+       margin: 0 !important;
+       background: none;
+       color: #ec5b2e;
+       text-align: center; */
+   }
+   .exit-intent-popup .newsletter .exit-form .wpcf7-form-control.g-recaptcha.wpcf7-recaptcha {
+       /* padding: 0; */
+   }
+   .exit-intent-popup span.close{
+   /* position: absolute;
+    right: -5px;
+    top: -5px;
+    background: #ec5b2e;
+    opacity: inherit;
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    color: #fff;
+    z-index: 5;
+    font-size: 20px;
+    padding: 0 0 0 0;
+    cursor: pointer; */
+}
+.exit-intent-popup span.close:focus,
+.exit-intent-popup span.close:hover{
+    /* opacity: unset !important; outline: none; */
+}
+
+
+
+/*.border-box-wrap >.elementor-column-wrap {
+    border: 1px solid #eb5526;
+    padding: 30px 15px !important;
+    margin: 15px 15px !important;
+}*/
+
+
+
+
+
+/* css for hire python page */
+
+/*.python-steps > .elementor-column-wrap {
+    background-color: white !important ;
+    margin: 10px !important;
+}
+
+.hire-productive-sec .hire-python-steps:hover {
+    transform: translateY(-10px);
+}
+.hire-productive-sec .hire-python-steps {
+    transition: all .3s;
+}
+.hire-python-steps{
+    background-color: white !important ;
+    margin: 10px !important;
+}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* job category banner */
+
+/* .jobs-banner {
+    min-height: 55vh;
+    background-image: url("https://appwrk.com/wp-content/uploads/2021/01/carreer-3.jpg");
+    background-repeat: no-repeat;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+}
+.jobs-banner .lazy.loaded{display: none !important;}
+
+.job-post-container
+{
+    font-family: 'Poppins',sans-serif;
+}
+.job-post{padding-top: 50px !important;}
+
+.jobs-banner .elementor-background-overlay {
+    display: none;
+}
+
+
+.cloudTags:before{display: none;}
+.jobs-banner .lazy {
+    display: none !important;
+}
+
+
+@media only screen and (max-width:991px){
+    .jobs-banner {
+    min-height: 50vh !important;
+    background-image: url("https://appwrk.com/wp-content/uploads/2021/01/carreer-Responsive-991-1.jpg") !important;
+}
+
+}
+
+@media only screen and (min-width:992px) and (max-width:1199px) {
+    .jobs-banner {
+    min-height: 60vh !important;
+     background-image: url("https://appwrk.com/wp-content/uploads/2021/01/carreer-Responsive-1024-2-1.jpg") !important;
+}
+
+} */
+
+
+
+/* case study page css */
+
+/* .projectBrief-des h2{    
+    padding-left: 20px;
+    border-left: 2px solid #EB5527;
+}
+
+.projectBrief-div h2{
+   font-family: Poppins;
+   font-style: normal;
+   font-weight: 600;
+   font-size: 22px;
+   color: #0F58A5;
+   margin:0;
+   margin-bottom:15px;
+}
+
+.briefDuration{
+    background: #EB5527;
+    border-radius: 10px;
+    padding:10px 30px;
+    color:white;
+}
+.projectBrief-div h2{
+    margin-bottom:15px;
+}
+.briefDeliverables{
+    margin-top:30px;
+}
+.briefDeliverables span{
+    background: #F5F5F5;
+    border-radius: 10px;
+    padding:10px;
+    color:#758495;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+}
+ */
+
+
+
+
+/* revied css */
+/* .consultation-form{background: rgba(0,0,0,.5);}
+.consultation-form .modal-dialog{max-width: 600px;}
+.consultation-form .modal-dialog .modal-content{background-color: #ffffff;font-family: "Lato", sans-serif;font-weight: 400;}
+.consultation-form .modal-dialog .modal-content .close {background: #FFF; color: #0f58a5;}
+.consultation-form .modal-dialog .modal-content .close:focus {border: none; outline: none;}
+.consultation-form .modal-dialog .modal-content .apply-now-form-body{padding: 0;}
+.consultation-form .modal-dialog .modal-content .apply-now-form-body form{display: flex; flex-wrap: wrap; justify-content: center; align-items: center;color: #fff;}
+.consultation-form .modal-dialog .modal-content .apply-now-form-body form .wpcf7-form-control {width: 100%; padding: 10px;margin: 10px 0 !important; box-shadow: none; border: none;margin-top: 1.5rem; color: #0f58a5; border-radius: 5px;background: none;box-shadow: none; background-color: transparent; border: 0px; border-bottom: 2px solid #fff; }
+.consultation-form .modal-dialog .modal-content .apply-now-form-body form .wpcf7-form-control::placeholder{color: #0f58a5;;} 
+.consultation-form .modal-dialog .modal-content .apply-now-form-body form textarea{overflow: auto; resize: none; height: 100px;}
+.consultation-form .modal-dialog .modal-content .apply-now-form-body .wpcf7 {}
+.consultation-form .modal-dialog .modal-content .apply-now-form-body form p {color: #fff;color: #ffffff;background: #0f58a5;}
+.consultation-form .modal-dialog .modal-content h1 { color: #ec5b2e; text-align: center; border: none; margin: 0; font-size: 2rem; padding: 0 15px;}
+.consultation-form .modal-dialog .modal-content p {text-align: center;    padding: 0 15px;margin-bottom: 0;}
+.consultation-form .modal-dialog .modal-content .apply-now-form-body form .consult-wrap {width: 100%;}
+.consultation-form .modal-dialog .modal-content .apply-now-form-body form .submit-wrap {padding: 0 30px; margin: 15px 0;display: flex;flex-wrap: wrap; justify-content: center;    margin-bottom: 0;}
+.consultation-form .modal-dialog .modal-content .apply-now-form-body form .submit-wrap .default-btn-next{    max-width: 500px;white-space: normal; color: #fff;font-family: "Lato", sans-serif; font-weight: 400; letter-spacing: 1px;}
+.consultation-form .modal-dialog .modal-content .apply-now-form-body form .consult-wrap .main-wrap {background: #0f58a5; padding: 30px 30px;margin: 15px 0;}
+.consultation-form .modal-dialog .modal-content .apply-now-form-body form p:empty {display: none;}
+.consultation-form .modal-dialog .modal-content .apply-now-form-body form .ajax-loader {position: absolute; left: 50%; bottom: 5px;}
+.consultation-form .modal-dialog .modal-content .apply-now-form-body form .wpcf7-form-control:focus {outline: none; color: #0f58a5;}
+.consultation-form .modal-dialog .modal-content .apply-now-form-body form .wpcf7-validation-errors, .wpcf7-acceptance-missing {padding: 0 !important; margin: 0; background: none; color: red;}
+.consultation-form .modal-dialog .modal-content .apply-now-form-body form .wpcf7-mail-sent-ok {margin: 0; color: #398f14; border: none; padding: 0;}
+.consultation-form .modal-dialog .modal-content .apply-now-form-body form .submit-wrap .default-btn-next:focus,
+.consultation-form .modal-dialog .modal-content .apply-now-form-body form .submit-wrap .default-btn-next:hover {color: #fff;}
+.consultation-form .modal-dialog .modal-content .apply-now-form-body a {display: flex; flex-wrap: wrap; justify-content: center; padding-bottom: 15px;}
+.rc-anchor-pt {display: flex; flex-wrap: wrap; align-items: center; justify-content: flex-start; position: absolute; bottom: 0;}
+.consultation-form .modal-dialog .modal-content .apply-now-form-body form .g-recaptcha {padding: 0 !important;width: 100% !important;}
+.consultation-form .modal-dialog .modal-content .apply-now-form-body form .g-recaptcha > div {width: 100% !IMPORTANT; overflow: hidden;}
+.consultation-form .modal-dialog .modal-content .apply-now-form-body form .g-recaptcha iframe {} */
+
+
+/* .hire-servc-box >.elementor-column-wrap,
+.hire-servc-box >.elementor-column-wrap .elementor-widget-wrap,
+.hire-servc-box >.elementor-column-wrap .elementor-widget-wrap .elementor-inner-section,
+.hire-servc-box >.elementor-column-wrap .elementor-widget-wrap .elementor-inner-section .elementor-container,
+.hire-servc-box >.elementor-column-wrap .elementor-widget-wrap .elementor-inner-section .elementor-container .elementor-row,
+.hire-servc-box >.elementor-column-wrap .elementor-widget-wrap .elementor-inner-section .elementor-container .elementor-row .elementor-column-wrap,
+.hire-servc-box >.elementor-column-wrap .elementor-widget-wrap .elementor-inner-section 
+.elementor-container .elementor-row .elementor-column-wrap .elementor-widget-wrap{height: 100%;} */
+
+

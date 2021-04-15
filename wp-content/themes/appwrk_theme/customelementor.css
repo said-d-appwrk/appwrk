@@ -1,0 +1,13 @@
+/* Testimonail page css */
+
+.testimonial-section .elementor-widget-wrap >.elementor-widget-testimonial {
+    border: 1px solid #0F58A5;
+    display: block; 
+    transition: .5s ease-in-out; 
+    margin: 10px 0; 
+    height: 100%;
+}
+
+/* Testimonail page css end */
+
+
